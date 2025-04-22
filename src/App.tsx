@@ -1,6 +1,4 @@
-import { useRef } from 'react';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
-import { motion } from 'framer-motion';
+
 import Navbar from './components/Navbar';
 import AboutMe from './components/AboutMe';
 import Education from './components/Education';
