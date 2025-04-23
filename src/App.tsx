@@ -1,4 +1,4 @@
-
+import { Analytics } from "@vercel/analytics/react"
 import Navbar from './components/Navbar';
 import AboutMe from './components/AboutMe';
 import Education from './components/Education';
