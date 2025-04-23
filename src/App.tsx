@@ -19,6 +19,7 @@ function App() {
         <SkillsSection />
         <CertificatesSection />
         <Footer />
+        <Analytics/>
       </main>
     </div>
   );
