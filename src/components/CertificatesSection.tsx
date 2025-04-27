@@ -19,7 +19,12 @@ const certificates = [
     title: 'Artificial Intelligence (Infosys SpringBoard)',
     link: 'https://drive.google.com/file/d/1ScapDQxHR9QmDiLu2wb_ageYFmZwPN4m/view?usp=sharing',
   },
+  {
+    title: 'SmartInterviews Certified Coder',
+    link: 'https://smartinterviews.in/certificate/3800ccde', // Replace with actual link to the certificate
+  },
 ];
+
 
 const CertificatesSection: React.FC = () => {
   return (
